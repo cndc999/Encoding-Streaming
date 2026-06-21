@@ -1,0 +1,21 @@
+{
+  "buffer_ms": 100.0,
+  "throughput_mbps": 1.9252,
+  "delay_ms": {
+    "mean": 30.85,
+    "p95": 31.06,
+    "max": 50.86,
+    "jitter": 1.62
+  },
+  "loss_rate_pct": 6.41,
+  "psnr_db": 15.73,
+  "sent_packets": 999,
+  "received_packets": 935,
+  "frames_total": 150,
+  "frames_decoded": 103,
+  "frames_lost_network": 47,
+  "frames_late": 0,
+  "frames_frozen": 47,
+  "smoothness_pct": 68.67,
+  "out_video": "/home/claude/streaming_app/output/videos/recv_Pack_5.mp4"
+}

@@ -1,0 +1,10 @@
+# Python dependencies for the Video Encoding and Streaming System
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: ffmpeg/ffprobe (with libx264 and libx265) is a SYSTEM dependency and is
+# NOT installable via pip. Install it separately, e.g.:  sudo apt install ffmpeg
+
+streamlit>=1.30
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7

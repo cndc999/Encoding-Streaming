@@ -1,0 +1,21 @@
+{
+  "buffer_ms": 100.0,
+  "throughput_mbps": 1.6007,
+  "delay_ms": {
+    "mean": 30.68,
+    "p95": 30.93,
+    "max": 31.38,
+    "jitter": 0.15
+  },
+  "loss_rate_pct": 21.92,
+  "psnr_db": 14.6,
+  "sent_packets": 999,
+  "received_packets": 780,
+  "frames_total": 150,
+  "frames_decoded": 37,
+  "frames_lost_network": 113,
+  "frames_late": 0,
+  "frames_frozen": 113,
+  "smoothness_pct": 24.67,
+  "out_video": "/home/claude/streaming_app/output/videos/recv_Pack_20.mp4"
+}
