@@ -1,21 +1,21 @@
 {
   "buffer_ms": 100.0,
-  "throughput_mbps": 2.0626,
+  "throughput_mbps": 1.7933,
   "delay_ms": {
-    "mean": 30.6,
-    "p95": 30.84,
-    "max": 31.16,
-    "jitter": 0.15
+    "mean": 32.13,
+    "p95": 34.04,
+    "max": 37.5,
+    "jitter": 0.97
   },
   "loss_rate_pct": 0.0,
-  "psnr_db": 40.92,
-  "sent_packets": 999,
-  "received_packets": 999,
-  "frames_total": 150,
-  "frames_decoded": 150,
+  "psnr_db": 11.36,
+  "sent_packets": 5025,
+  "received_packets": 5025,
+  "frames_total": 851,
+  "frames_decoded": 851,
   "frames_lost_network": 0,
   "frames_late": 0,
   "frames_frozen": 0,
   "smoothness_pct": 100.0,
-  "out_video": "/home/claude/streaming_app/output/videos/recv_Pack_0.mp4"
+  "out_video": "/home/quanganh-202414611/Desktop/Encoding-Streaming/output/videos/recv_Pack_0.mp4"
 }
