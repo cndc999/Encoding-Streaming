@@ -2,13 +2,13 @@
   "buffer_ms": 100.0,
   "throughput_mbps": 1.6117,
   "delay_ms": {
-    "mean": 31.61,
-    "p95": 32.91,
-    "max": 36.7,
-    "jitter": 0.7
+    "mean": 31.7,
+    "p95": 33.68,
+    "max": 39.6,
+    "jitter": 0.94
   },
   "loss_rate_pct": 10.31,
-  "psnr_db": 16.53,
+  "psnr_db": 10.68,
   "sent_packets": 5025,
   "received_packets": 4507,
   "frames_total": 851,
